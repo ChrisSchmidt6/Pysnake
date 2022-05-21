@@ -4,7 +4,10 @@ Snake game I created to better familiarize myself with Python. I had created a l
 
 To run the game you run main.py
 
-Controls:
+# Controls
+
 WASD or Arrow Keys for movement.
-Backspace to pause the game
+
+Backspace to pause the game.
+
 Space to start the game when it has ended or has been paused.
